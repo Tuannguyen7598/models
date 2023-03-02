@@ -1,0 +1,22 @@
+{
+  "name": "models",
+  "version": "1.0.0",
+  "description": "Contain Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuannguyen7598/models.git"
+  },
+  "keywords": [
+    "models"
+  ],
+  "author": "nguyen quang tuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tuannguyen7598/models/issues"
+  },
+  "homepage": "https://github.com/Tuannguyen7598/models#readme"
+}
